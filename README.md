@@ -33,19 +33,6 @@ ask_me_about:       Flutter architecture, state management, offline-first apps
 
 ## 📦 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 📚 BlackBook
-Offline-first reading & knowledge management app.
-Clean architecture, Hive storage, Google Books API integration in progress.
-
-`Flutter` `Hive` `Provider` `go_router`
-
-**🔧 In active development**
-
-</td>
 <td width="50%" valign="top">
 
 ### 📝 BlackPad
