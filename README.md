@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Behnam%20Taheri&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Mobile%20Developer&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00040F,25:0F2027,60:2C5364,100:00040F&height=260&section=header&text=Behnam%20Taheri&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%E2%80%A2%20Turning%20Ideas%20Into%20Real%20Products&descAlignY=58&descSize=16" width="100%"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Clean+Architecture+%7C+Offline-First+Design;Flutter+%2B+Dart+%7C+Provider+%2B+Hive+%2B+go_router;Currently+Building+BlackBook+%F0%9F%93%9A" alt="Typing SVG"/>
+
+<br/><br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/behnamtaheri01)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BehnamTi)
@@ -10,33 +12,38 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Behnamti_01)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Behnamti2010@gmail.com)
 
+<img src="https://komarev.com/ghpvc/?username=BehnamTi2010&label=Profile%20Views&color=2C5364&style=for-the-badge" alt="profile views"/>
+
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=4&section=header"/>
 
 ## 🚀 About Me
 
 I'm a self-taught **Flutter developer** focused on building things properly — clean layered architecture (`core → data → providers → ui`), offline-first design, and code that's still pleasant to maintain six months later.
 
 ```yaml
-current_focus:      Building BlackBook, an offline-first reading and knowledge app
+current_focus:      Building BlackBook, an offline-first reading & knowledge app
 currently_learning: Advanced Flutter patterns, backend integration
 open_to:            Flutter and Android collaborations
 ask_me_about:       Flutter architecture, state management, offline-first apps
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=4&section=header"/>
 
 ## 📦 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 📚 BlackBook
-Offline-first reading and knowledge management app. Clean architecture, Hive storage, Google Books API integration in progress.
+Offline-first reading & knowledge management app.
+Clean architecture, Hive storage, Google Books API integration in progress.
 
-*🔧 In active development*
+`Flutter` `Hive` `Provider` `go_router`
+
+**🔧 In active development**
 
 </td>
 <td width="50%" valign="top">
@@ -44,38 +51,23 @@ Offline-first reading and knowledge management app. Clean architecture, Hive sto
 ### 📝 BlackPad
 Fully offline notepad app — folder management, rich formatting toolbar, pin/trash, dark theme.
 
-*✅ Published on GitHub*
+`Flutter` `Hive` `Provider` `go_router`
+
+**✅ Published on GitHub**
 
 </td>
 </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=4&section=header"/>
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,java,py,js,html,css,git,github,figma,docker&theme=dark" />
+</div>
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Mobile & Frameworks**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=4&section=header"/>
 
 ## 📊 GitHub Stats
 
@@ -84,10 +76,29 @@ Fully offline notepad app — folder management, rich formatting toolbar, pin/tr
 <img src="https://github-readme-stats.shion.dev/api?username=BehnamTi2010&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=BehnamTi2010&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=BehnamTi2010&theme=tokyonight&hide_border=true&layout=compact" width="60%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=BehnamTi2010&theme=tokyonight&hide_border=true&layout=compact" width="55%"/>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=4&section=header"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=BehnamTi2010&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8"/>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=4&section=header"/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/BehnamTi2010/BehnamTi2010/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<sub>⚙️ Needs a one-time GitHub Actions workflow to generate — ask me and I'll walk you through it step by step.</sub>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00040F,25:0F2027,60:2C5364,100:00040F&height=150&section=footer&animation=twinkling"/>
+<sub>Thanks for stopping by — feel free to reach out 👋</sub>
+</div>
