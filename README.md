@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00040F,25:0F2027,60:2C5364,100:00040F&height=260&section=header&text=Behnam%20Taheri&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%E2%80%A2%20Turning%20Ideas%20Into%20Real%20Products&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Clean+Architecture+%7C+Offline-First+Design;Flutter+%2B+Dart+%7C+Provider+%2B+Hive+%2B+go_router;Currently+Building+BlackBook+%F0%9F%93%9A" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Clean+Architecture+%7C+Offline-First+Design;Flutter+%2B+Dart+%7C+Provider+%2B+Hive+%2B+go_router;Currently+Building+MySelf+%F0%9F%93%9A" alt="Typing SVG"/>
 
 <br/><br/>
 
