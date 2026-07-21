@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-I'm a self-taught **Flutter developer** focused on building things properly — clean layered architecture (`core → data → providers → ui`), offline-first design, and code that's still pleasant to maintain six months later.
+I'm a self-taught **Mobile developer** focused on building things properly — clean layered architecture (`core → data → providers → ui`), offline-first design, and code that's still pleasant to maintain six months later.
 
 ```yaml
 current_focus:      Building BlackBook, an offline-first reading & knowledge app
